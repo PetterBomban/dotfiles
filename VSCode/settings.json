@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.lineHeight": 22,
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.minimap.enabled": false,
+    "editor.minimap.renderCharacters": false,
+    "window.reopenFolders": "all",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.renderIndentGuides": true
+}
+// Current theme
+// https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark
