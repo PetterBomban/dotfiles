@@ -1,6 +1,6 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.lineHeight": 22,
+    "editor.lineHeight": 20,
     "editor.mouseWheelZoom": true,
     "workbench.colorTheme": "Atom One Dark",
     "editor.minimap.enabled": false,
