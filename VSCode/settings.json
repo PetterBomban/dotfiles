@@ -2,13 +2,11 @@
 {
     "editor.lineHeight": 20,
     "editor.mouseWheelZoom": true,
-    "workbench.colorTheme": "Atom One Dark",
     "editor.minimap.enabled": false,
     "editor.minimap.renderCharacters": false,
     "window.reopenFolders": "all",
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
-    "editor.renderIndentGuides": true
+    "editor.renderIndentGuides": true,
+    "workbench.colorTheme": "Monokai++"
 }
-// Current theme
-// https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark
