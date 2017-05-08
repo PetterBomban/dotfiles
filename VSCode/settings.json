@@ -9,5 +9,6 @@
     "editor.insertSpaces": true,
     "editor.renderIndentGuides": true,
     "workbench.colorTheme": "Monokai++",
-     "python.linting.pylintArgs": ["--errors-only"]
+    "python.linting.pylintArgs": ["--errors-only"],
+    "editor.rulers": [80,100]
 }
