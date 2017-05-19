@@ -9,10 +9,16 @@
     "editor.insertSpaces": true,
     "editor.renderIndentGuides": true,
     "workbench.colorTheme": "Flatland Monokai",
-    "python.linting.pylintArgs": ["--errors-only"],
     "editor.rulers": [
-        80,
         100
     ],
-    "workbench.iconTheme": "vs-seti"
+    "workbench.iconTheme": "vs-seti",
+    // Language specific configuration
+    // -------------------------------
+    // PowerShell
+    "powershell.codeFormatting.openBraceOnSameLine": false,
+    // Python
+    "python.linting.pylintArgs": [
+        "--errors-only"
+    ]
 }
