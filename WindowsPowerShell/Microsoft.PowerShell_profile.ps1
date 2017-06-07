@@ -17,7 +17,7 @@ function vim
 
 function sup
 {
-    $path = Join-Path -Path $Env:USERPROFILE -ChildPath "test.txt"
+    $path = Join-Path -Path (Split-Path -Path $profile) -ChildPath "sup.txt"
     Get-Content $path | Set-Clipboard
 }
 
