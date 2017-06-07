@@ -13,12 +13,9 @@
         100
     ],
     "workbench.iconTheme": "vs-seti",
-    // Language specific configuration
-    // -------------------------------
-    // PowerShell
     "powershell.codeFormatting.openBraceOnSameLine": false,
-    // Python
     "python.linting.pylintArgs": [
         "--errors-only"
-    ]
+    ],
+    "window.zoomLevel": 0
 }
